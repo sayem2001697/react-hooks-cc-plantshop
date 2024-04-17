@@ -25,13 +25,14 @@ function App() {
     fetch(PlantAPI,{
       method:'POST',
       headers:{
-        Accepts: 'application/json',
-        'Content-type': 'application/json',
+        
+        // "Accept": 'application/json',
+        "Content-Type": 'Application/JSON'
       },
       body: JSON.stringify(plant),
     })
     .then(res=>res.json())
-    .then(json => setPlants([...plants,json]));
+    .then(newPlant => setPlants([...plants,newPlant]));
   }
 
   function sellPlant(plant){

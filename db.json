@@ -65,6 +65,12 @@
       "image": "licensed-image.jpeg",
       "price": "67",
       "id": 11
+    },
+    {
+      "name": "rim",
+      "image": "https://images.app.goo.gl/XHGGA3guAE4QNhz3A",
+      "price": "09",
+      "id": 12
     }
   ]
 }
