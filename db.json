@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "rim",
+      "image": "https://images.app.goo.gl/XHGGA3guAE4QNhz3A",
+      "price": "50",
+      "id": 8
+    },
+    {
+      "name": "j",
+      "image": "licensed-image.jpeg",
+      "price": "07",
+      "id": 9
+    },
+    {
+      "name": "j",
+      "image": "licensed-image.jpeg",
+      "price": "07",
+      "id": 10
+    },
+    {
+      "name": "guyj",
+      "image": "licensed-image.jpeg",
+      "price": "67",
+      "id": 11
     }
   ]
 }
